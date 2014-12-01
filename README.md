@@ -1,15 +1,15 @@
 README
 ======
 
-clone app using command
+Clone app using command
 
     git clone git@ci.fffee.org:andrew/dumpapp.git
 
-launch app using node and npm
+Launch app using node and npm
 
     npm install
 
-and start start
+And start start
 
     npm start
 
