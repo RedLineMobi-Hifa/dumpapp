@@ -7,6 +7,6 @@ launch app using node and npm
 
 and start start
 
-   npm start
+    npm start
 
 
